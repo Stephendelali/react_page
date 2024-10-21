@@ -21,7 +21,7 @@ To run this project locally, follow these steps:
 2. Navigate the repo
 
    ```bash
-      cd "...".
+      cd ...
 
 3. Install dependencies
 
