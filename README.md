@@ -1,8 +1,35 @@
-# React + Vite
+# Customer Management Dashboard
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a **React.js** application for managing and displaying customer information. It features a search bar, filters, customer details table, and some statistics for user insights.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **Search Bar:** Allows users to search for customers by name.
+- **Customer Table:** Displays key customer data including name, billing date, plan, amount, and total users.
+- **Statistics Section:** Shows key statistics like total customers, team plan users, basic plan users, and more.
+- **Responsive Design:** Ensures the dashboard is user-friendly across different devices.
+
+## Installation
+
+To run this project locally, follow these steps:
+
+1. Clone the repository:
+
+   ```bash
+   git clone <repository-url>
+
+2. Navigate the repo
+
+   ```bash
+      cd "...".
+
+3. Install dependencies
+
+   ```bash
+   npm install
+
+4. Start development Server
+
+   ```bash
+   npm start
+
