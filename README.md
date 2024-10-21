@@ -4,7 +4,7 @@ This is a **React.js** application for managing and displaying customer informat
 
 ## Features
 
-- **Search Bar:** Allows users to search for customers by name.
+
 - **Customer Table:** Displays key customer data including name, billing date, plan, amount, and total users.
 - **Statistics Section:** Shows key statistics like total customers, team plan users, basic plan users, and more.
 - **Responsive Design:** Ensures the dashboard is user-friendly across different devices.
